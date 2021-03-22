@@ -9,4 +9,7 @@ https://reactjs.org/
 
 ![Alt text](/assests/react.PNG?raw=true "react")
 
+- Author: Prabin Singh
+- Campus: Code Fellows
+
 
