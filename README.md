@@ -5,4 +5,8 @@ This repo is intendent to save reading materials for 301 Course as we make progr
 ## Code 301 - Intermediate Software Development
 
 301 contents are more of REACT so this repo will contain weblinks as such:  
-https://reactjs.org/
+https://reactjs.org/  
+
+![Alt text](/assets/react.PNG?raw=true "react")
+
+
