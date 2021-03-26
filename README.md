@@ -8,7 +8,7 @@ This repo is intendent to save reading materials for 301 Course as we make progr
 https://reactjs.org/  
 
 [Introduction to React and Components](class01.md)  
-[React and Props](reading-notes/blob/main/class02.md)  
+[React and Props](class02.md)  
 
 ![Alt text](/assests/react.PNG?raw=true "react")
 
