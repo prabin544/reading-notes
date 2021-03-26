@@ -7,8 +7,8 @@ This repo is intendent to save reading materials for 301 Course as we make progr
 301 contents are more of REACT so this repo will contain weblinks as such:  
 https://reactjs.org/  
 
-[Introduction to React and Components] (./class01.md)
-[State and Props] (./class01.md)
+[Introduction to React and Components](readingnotes/class01.md)  
+[React and Props](readingnotes/class02.md)  
 
 ![Alt text](/assests/react.PNG?raw=true "react")
 
