@@ -5,6 +5,8 @@
 React.js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It’s used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components. React was first created by Jordan Walke, a software engineer working for Facebook. React first deployed on Facebook’s newsfeed in 2011 and on Instagram.com in 2012.
  
 React allows developers to create large web applications that can change data, without reloading the page. The main purpose of React is to be fast, scalable, and simple. It works only on user interfaces in the application. This corresponds to the view in the MVC template. It can be used with a combination of other JavaScript libraries or frameworks, such as Angular JS in MVC.
+
+[Source](https://reactjs.org/)
  
 React JS is also called simply to React or React.js.  
 
@@ -35,3 +37,5 @@ ReactDOM.render(element, document.getElementById('root'));
 ### Components and props
 Components in React are independent, reusable pieces of UI. A typical web page may consist of a navbar, content area & footer. In React, we create these areas as components (which in turn may consist of other components!). It saves on code duplication & as we’ll see, allows for an immense amount of flexibility.
 React Props are like function arguments in JavaScript and attributes in HTML.
+
+[Source](https://reactjs.org/docs/introducing-jsx.html)
