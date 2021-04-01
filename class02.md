@@ -35,5 +35,5 @@ Props should never be changed in a child component, so if there’s something go
 
 Props are also used to allow child components to access methods defined in the parent component. This is a good way to centralize managing the state in the parent component, and avoid children to have the need to have their own state.
 
-Most of your components will just display some kind of information based on the props they received, and stay stateless.
+Most of your components will just display some kind of information based on the props they received, and stay stateless.  
 [Source](https://reactjs.org/docs/components-and-props.html)
