@@ -23,3 +23,5 @@ This guidance describes issues that you should consider when designing a web API
 - PUT either creates or replaces the resource at the specified URI. The body of the request message specifies the resource to be created or updated.
 - PATCH performs a partial update of a resource. The request body specifies the set of changes to apply to the resource.
 - DELETE removes the resource at the specified URI.
+
+[Source](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
