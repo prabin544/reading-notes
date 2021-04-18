@@ -29,7 +29,7 @@ A side effect is any application state change that is observable outside the cal
 - Declarative rather than imperative code (what to do, rather than how to do it)
 - Expressions over statements
 - Containers & higher order functions over ad-hoc polymorphism  
-[Source](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#:~:text=Functional%20programming%20(often%20abbreviated%20FP,state%20flows%20through%20pure%20functions)
+[Source](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#:~:text=Functional%20programming%20(often%20abbreviated%20FP,state%20flows%20through%20pure%20functions/)
 
 # Refactoring Javascript for Readability
 Code refactoring is defined as the process of restructuring computer code without changing or adding to its external behavior and functionality.
