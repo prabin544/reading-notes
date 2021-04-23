@@ -29,7 +29,7 @@ function secondFunction(){
 
 secondFunction();
 ```
-[Source](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+[Source](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)  
 [Source](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 # JavaScript error messages && debugging
 Errors can be categorized into 4 different type:  
