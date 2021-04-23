@@ -29,7 +29,8 @@ function secondFunction(){
 
 secondFunction();
 ```
-
+[Source](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+[Source](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 # JavaScript error messages && debugging
 Errors can be categorized into 4 different type:  
 
@@ -74,4 +75,5 @@ function potentiallyBuggyCode() {
 - console.debug() - very similar to console.log, but is used for browser compatibility and by default .debug messages are hidden in some browsers.
 - console.warn - has a different type of output message, and is typically used for less-critical pieces of information.
 - console.info() - almost identical to console.log()
-- console.error() - should be reserved for more serious issues and actual errors. This method is what automatically captures exceptions and other JavaScript issues. 
+- console.error() - should be reserved for more serious issues and actual errors. This method is what automatically captures exceptions and other JavaScript issues.   
+[Source](https://logrocket.com/for/best-ways-to-debug-javascript/?utm_source=google&utm_medium=cpc&utm_campaign=12511638884&utm_group=119875471875&utm_term=&utm_content=&gclid=EAIaIQobChMI3eKvgpyT8AIVg21vBB3npAI2EAAYAiAAEgIx1vD_BwE#utm_source=google&utm_medium=cpc&utm_campaign=12511638884&utm_group=119875471875&utm_term=&utm_content=&gclid=EAIaIQobChMI3eKvgpyT8AIVg21vBB3npAI2EAAYAiAAEgIx1vD_BwE)
