@@ -1,8 +1,8 @@
-100’s = Information purpose (Just information that user can proceed with next step on request cycle)
-200’s = Successful responses (When there is request made to any client/server and we get some kind of respose, meaning it's not breaking)
-300’s = Redirection messages (The target resource has more than one representation.)
-400’s = Client error responses (server cannot or will not process the request due to client error)
-500’s = Server error responses (When server cannot process client request)  
+100’s = Information purpose (Just information that user can proceed with next step on request cycle)  
+200’s = Successful responses (When there is request made to any client/server and we get some kind of respose, meaning it's not breaking)  
+300’s = Redirection messages (The target resource has more than one representation.)  
+400’s = Client error responses (server cannot or will not process the request due to client error)  
+500’s = Server error responses (When server cannot process client request)    
 
 ## What is a status code 202?  
 The request has been received but not yet acted upon. It is noncommittal, since there is no way in HTTP to later send an asynchronous response indicating the outcome of the request. It is intended for cases where another process or server handles the request, or for batch processing.
