@@ -9,8 +9,9 @@ The request has been received but not yet acted upon. It is noncommittal, since 
 ## What is a status code 308?  
 This means that the resource is now permanently located at another URI, specified by the Location: HTTP Response header. This has the same semantics as the 301 Moved Permanently HTTP response code, with the exception that the user agent must not change the HTTP method used: If a POST was used in the first request, a POST must be used in the second request.  
 ## What code would you use if an update didn’t return data to a client?
-
+- 204 No Content
 What code would you use if a resource used to exist but no longer does?
+- 404: “The requested resource was not found.
 
 What is the ‘Forbidden’ status code?  
 ## The HTTP 403 Forbidden client error status response code indicates that the server understood the request but refuses to authorize it. This status is similar to 401 , but in this case, re-authenticating will make no difference
