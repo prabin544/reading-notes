@@ -13,5 +13,5 @@ This means that the resource is now permanently located at another URI, specifie
 What code would you use if a resource used to exist but no longer does?
 - 404: “The requested resource was not found.
 
-What is the ‘Forbidden’ status code?  
-## The HTTP 403 Forbidden client error status response code indicates that the server understood the request but refuses to authorize it. This status is similar to 401 , but in this case, re-authenticating will make no difference
+## What is the ‘Forbidden’ status code?  
+The HTTP 403 Forbidden client error status response code indicates that the server understood the request but refuses to authorize it. This status is similar to 401 , but in this case, re-authenticating will make no difference
