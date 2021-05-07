@@ -6,7 +6,7 @@
 
 #### What is a status code 202?  
 The request has been received but not yet acted upon. It is noncommittal, since there is no way in HTTP to later send an asynchronous response indicating the outcome of the request. It is intended for cases where another process or server handles the request, or for batch processing.
-### What is a status code 308?  
+#### What is a status code 308?  
 This means that the resource is now permanently located at another URI, specified by the Location: HTTP Response header. This has the same semantics as the 301 Moved Permanently HTTP response code, with the exception that the user agent must not change the HTTP method used: If a POST was used in the first request, a POST must be used in the second request.  
 #### What code would you use if an update didn’t return data to a client?
 - 204 No Content
