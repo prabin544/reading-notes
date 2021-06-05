@@ -1,5 +1,35 @@
 # Reading Notes
-This repo is intendent to save reading materials for 301 Course as we make progress in class.
+
+This repo is intendent to save reading materials for 401/301 Course as we make progress in class.
+
+
+## Code 401 - Intermediate Software Development
+
+- 1st Python 401 Reading
+- Testing and Modules
+- FileIO & Exceptions
+- 4th Python 401 Reading
+- Linked Lists
+- Game of Greed 1
+- Game of Greed 2
+- Game of Greed 3
+- Game of Greed 4
+- Read 10
+- Read 11
+- Read 12
+- Read 13
+- Read 14
+- Read15
+- Read 16
+- Read 17
+- Read 18
+- Read 19
+- Read 20
+- Read 21
+- Read 22
+- Read 23
+- Read 24
+- Read 25
 
 
 ## Code 301 - Intermediate Software Development
