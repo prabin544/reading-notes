@@ -3,7 +3,7 @@
 This repo is intendent to save reading materials for 401/301 Course as we make progress in class.
 
 
-## Code 401 - Intermediate Software Development
+## Code 401 - Advance Software Development
 
 - 1st Python 401 Reading
 - Testing and Modules
