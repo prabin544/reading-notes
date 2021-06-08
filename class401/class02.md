@@ -21,5 +21,5 @@ int fact(int n)
 }
 ```
 
-A problem is solved using recursive function by breaking larger problem into small and adding one or more base conditions that would stop the recursion.
+A problem is solved using recursive function by breaking larger problem into small and adding one or more base conditions that would stop the recursion.  
 [source](https://www.geeksforgeeks.org/recursion/)
