@@ -6,7 +6,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 ## Code 401 - Advance Software Development
 
 - [1st Python 401 Reading](https://github.com/prabin544/reading-notes/blob/main/class401/class01.md)
-- Testing and Modules
+- [Testing and Modules](https://github.com/prabin544/reading-notes/blob/main/class401/class02.md)
 - FileIO & Exceptions
 - 4th Python 401 Reading
 - Linked Lists
