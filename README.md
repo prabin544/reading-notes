@@ -7,8 +7,8 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 
 - [1st Python 401 Reading](https://github.com/prabin544/reading-notes/blob/main/class401/class01.md)
 - [Testing and Modules](https://github.com/prabin544/reading-notes/blob/main/class401/class02.md)
-- FileIO & Exceptions
-- 4th Python 401 Reading
+- [FileIO & Exceptions]()
+- [4th Python 401 Reading](https://github.com/prabin544/reading-notes/blob/main/class401/class04.md)
 - Linked Lists
 - Game of Greed 1
 - Game of Greed 2
