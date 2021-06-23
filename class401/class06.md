@@ -47,3 +47,4 @@ import random
 for i in range(3):
     print random.randrange(0, 101, 5)
 ```
+[source](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)
