@@ -14,6 +14,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - Game of Greed 2
 - Game of Greed 3
 - Game of Greed 4
+- [List Comprehension](https://github.com/prabin544/reading-notes/blob/main/class401/class08.md)
 - Read 10
 - Read 11
 - Read 12
