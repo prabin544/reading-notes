@@ -21,6 +21,8 @@ LIFO
 Last In First Out
 
 This means that the last item added to the stack will be the first item popped out of the stack.  
+![screenshot](https://github.com/prabin544/reading-notes/blob/main/assests/Stacks.PNG)
+
 
 ### Queue
 Common terminology for a queue is
@@ -42,4 +44,5 @@ LILO
 Last In Last Out
 
 This means that the last item in the queue will be the last item out of the queue.
+![screenshot](https://github.com/prabin544/reading-notes/blob/main/assests/Queues.PNG)
 
