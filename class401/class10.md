@@ -46,3 +46,5 @@ Last In Last Out
 This means that the last item in the queue will be the last item out of the queue.
 ![screenshot](https://github.com/prabin544/reading-notes/blob/main/assests/Queues.PNG)
 
+[Source](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
+
