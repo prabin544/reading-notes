@@ -16,7 +16,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - Game of Greed 4
 - [List Comprehension](https://github.com/prabin544/reading-notes/blob/main/class401/class08.md)
 - [Dunder Methods && Statistics - Probability](https://github.com/prabin544/reading-notes/blob/main/class401/class09.md)
-- Read 10
+- [Stacks and Queues](https://github.com/prabin544/reading-notes/blob/main/class401/class10.md)
 - [Data Analysis](https://github.com/prabin544/reading-notes/blob/main/class401/class11.md)
 - [Pandas](https://github.com/prabin544/reading-notes/blob/main/class401/class12.md)
 - Read 13
