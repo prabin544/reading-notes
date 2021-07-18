@@ -1,14 +1,22 @@
-## Dunder Methods
-Dunder methods let you emulate the behavior of built-in types. For example, to get the length of a string you can call len('string'). But an empty class definition doesn’t support this behavior out of the box:  
-- Object Initialization: __init__
-- Object Representation: __str__, __repr__
-- Iteration: __len__, __getitem__, __reversed__
-- Operator Overloading: __eq__, __lt__, __add__
-- Callable Python Objects: __call__
-- Context Manager Support and the With Statement: __enter__, __exit__
+## How to Run Linear Regression in Python
+Linear regression is probably one of the most important and widely used regression techniques. It’s among the simplest regression methods. One of its main advantages is the ease of interpreting results.  
+### Type of Regression:
+- Simple Linear Regression
+- Multiple Linear Regression
+- Polynomial Regression
 
-## Statistics - Probability
+### Implementing Linear Regression in Python
+#### Python Packages for Linear Regression
+- NumPy
+- scikit-learn
+- statsmodels
 
-#### What is probability?
-At the most basic level, probability seeks to answer the question, “What is the chance of an event happening?” An event is some outcome of interest. To calculate the chance of an event happening, we also need to consider all the other events that can occur.  
+#### Steps to implement Simple Linear Regression With scikit-learn
+- Step 1: Import packages and classes
+- Step 2: Provide data
+- Step 3: Create a model and fit it
+- Step 4: Get results
+- Step 5: Predict response
+
+[Source](https://realpython.com/linear-regression-in-python/)
 
