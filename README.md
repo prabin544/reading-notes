@@ -19,7 +19,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - [Stacks and Queues](https://github.com/prabin544/reading-notes/blob/main/class401/class10.md)
 - [Data Analysis](https://github.com/prabin544/reading-notes/blob/main/class401/class11.md)
 - [Pandas](https://github.com/prabin544/reading-notes/blob/main/class401/class12.md)
-- Read 13
+- [linear regression](https://github.com/prabin544/reading-notes/blob/main/class401/class13.md)
 - Read 14
 - Read15
 - Read 16
