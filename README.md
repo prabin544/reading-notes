@@ -18,7 +18,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - [Dunder Methods && Statistics - Probability](https://github.com/prabin544/reading-notes/blob/main/class401/class09.md)
 - Read 10
 - Read 11
-- Read 12
+- [Pandas](https://github.com/prabin544/reading-notes/blob/main/class401/class12.md)
 - Read 13
 - Read 14
 - Read15
