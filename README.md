@@ -21,7 +21,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - [Data Analysis](https://github.com/prabin544/reading-notes/blob/main/class401/class11.md)
 - [Pandas](https://github.com/prabin544/reading-notes/blob/main/class401/class12.md)
 - [linear regression](https://github.com/prabin544/reading-notes/blob/main/class401/class13.md)
-- Read 14
+- [Matplotlib](https://github.com/prabin544/reading-notes/blob/main/class401/class14.md)
 - Read15
 - Read 16
 - Read 17
