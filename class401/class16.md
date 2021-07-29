@@ -1,3 +1,4 @@
+## Data Science
 This mini-course will provide a gentle introduction to data science and applied machine learning. If you're a developer, analyst, manager, or aspiring data scientist looking learn more about data science, then you're in the right place.  
 ## Bird's Eye View
 First, let’s start with the “80/20” of data science…
