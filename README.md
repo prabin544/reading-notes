@@ -23,7 +23,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - [linear regression](https://github.com/prabin544/reading-notes/blob/main/class401/class13.md)
 - [Matplotlib](https://github.com/prabin544/reading-notes/blob/main/class401/class14.md)
 - [Trees](https://github.com/prabin544/reading-notes/blob/main/class401/class15.md)
-- Read 16
+- [Data Science](https://github.com/prabin544/reading-notes/blob/main/class401/class16.md)
 - Read 17
 - Read 18
 - Read 19
