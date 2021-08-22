@@ -32,7 +32,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - Read 22
 - Read 23
 - Read 24
-- Read 25
+- [Intro to Django]()
 
 
 ## Code 301 - Intermediate Software Development
