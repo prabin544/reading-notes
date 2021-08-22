@@ -15,3 +15,5 @@ With Django, you can take web applications from concept to launch in a matter of
 - Incredibly versatile
   - Companies, organizations and governments have used Django to build all sorts of things — from content management systems to social networks to scientific computing platforms.
 
+[Source](https://www.djangoproject.com/start/overview)
+
