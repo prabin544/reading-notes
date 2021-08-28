@@ -16,4 +16,5 @@ Minimally, in every model you should define the standard Python class method __s
 ### Model management
 Once you've defined your model classes you can use them to create, update, or delete records, and to run queries to get all records or particular subsets of records.
 
+[Source](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
