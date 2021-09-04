@@ -272,9 +272,7 @@ re.match(r'<.*>', heading).group()
 ```
 '<h1>TITLE</h1>'
 ```
-The pattern <.*> matched the whole string, right up to the second occurrence of >. However, if you only wanted to match the first <h1> tag, you could have used the greedy qualifier *? that matches as little text as possible.
-
-Adding ? after the qualifier makes it perform the match in a non-greedy or minimal fashion; That is, as few characters as possible will be matched. When you run <.*>, you will only get a match with <h1>.
+The pattern <.*> matched the whole string, right up to the second occurrence of >. However, if you only wanted to match the first ```<h1>``` tag, you could have used the greedy qualifier *? that matches as little text as possible. Adding ? after the qualifier makes it perform the match in a non-greedy or minimal fashion; That is, as few characters as possible will be matched. When you run <.*>, you will only get a match with <h1>.
 ```
 heading  = r'<h1>TITLE</h1>'
 re.match(r'<.*?>', heading).group()
