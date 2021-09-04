@@ -32,6 +32,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - Read 22
 - Read 23
 - Read 24
+- [Django Forms](https://github.com/prabin544/reading-notes/blob/main/class401/class28.md)
 - [Intro to Django](https://github.com/prabin544/reading-notes/blob/main/class401/class26.md)
 - [Django Models](https://github.com/prabin544/reading-notes/blob/main/class401/class27.md)
 
