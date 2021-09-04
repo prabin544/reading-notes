@@ -26,7 +26,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - [Data Science](https://github.com/prabin544/reading-notes/blob/main/class401/class16.md)
 - Read 17
 - Read 18
-- Read 19
+- [Python Regular Expression](https://github.com/prabin544/reading-notes/blob/main/class401/class19.md)
 - Read 20
 - Read 21
 - Read 22
