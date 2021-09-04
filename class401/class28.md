@@ -23,7 +23,7 @@ The role of the server is first to render the initial form state — either cont
 As you can imagine, creating the HTML, validating the returned data, re-displaying the entered data with error reports if needed, and performing the desired operation on valid data can all take quite a lot of effort to "get right". Django makes this a lot easier, by taking away some of the heavy lifting and repetitive code!  
 
 
-
+[Source](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)
 
 
 
