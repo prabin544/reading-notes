@@ -35,6 +35,7 @@ This repo is intendent to save reading materials for 401/301 Course as we make p
 - [Django Forms](https://github.com/prabin544/reading-notes/blob/main/class401/class28.md)
 - [Intro to Django](https://github.com/prabin544/reading-notes/blob/main/class401/class26.md)
 - [Django Models](https://github.com/prabin544/reading-notes/blob/main/class401/class27.md)
+- [Hash Table](https://github.com/prabin544/reading-notes/blob/main/class401/class30.md)
 
 
 ## Code 301 - Intermediate Software Development
