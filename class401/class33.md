@@ -174,6 +174,6 @@ Your Django app does not actually run as you would think a server would - waitin
 
 This function calls your code, and produces a response object which is passed to the WSGI server. There the response is translated into a HTTP response and is passed back to the web server, which finally delivers it to the user.
 
-[Source](https://jwt.io/introduction/)
-[Source](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
-[Source](https://build.vsupalov.com/django-runserver-in-production/)
+[Source](https://jwt.io/introduction/)  
+[Source](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)  
+[Source](https://build.vsupalov.com/django-runserver-in-production/)  
