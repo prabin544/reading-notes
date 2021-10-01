@@ -169,9 +169,11 @@ This is an application, which is great at serving static files from disk (your c
 
 The next component is an application server. It gets those fancy requests and uses them to construct Python objects which are usable by Django. WSGI is a specification which people agreed on, which describe how that happens. Gunicorn is an example for a WSGI server.
 
-Curious about how Nginx and Gunicorn work together? Read more here
-
 ### How Does Django Fit In?
 Your Django app does not actually run as you would think a server would - waiting for requests and reacting to them. Your project provides a uwsgi.py file, which contains a function to be called by the application server. This function gets a Python object representing the incoming request.
 
 This function calls your code, and produces a response object which is passed to the WSGI server. There the response is translated into a HTTP response and is passed back to the web server, which finally delivers it to the user.
+
+[Source](https://jwt.io/introduction/)
+[Source](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
+[Source](https://build.vsupalov.com/django-runserver-in-production/)
